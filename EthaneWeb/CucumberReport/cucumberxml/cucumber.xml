@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.269">
+<testcase classname="ethane automation syllabus check" name="Automation Syllaus check" time="0.089">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open Ethan app........................................................undefined
+Then go to pune classes.....................................................skipped
+And check automation testing syllabus.......................................skipped
+Then check api syllabus.....................................................skipped
+]]></failure>
+</testcase>
+</testsuite>
